@@ -1,0 +1,1266 @@
+{
+  "authorId": "mukhtasar-id",
+  "author": "Tafsir Center for Quranic Studies",
+  "book": "Al-Mukhtasar fi Tafsir al-Qur'an al-Karim",
+  "language": "id",
+  "languageName": "Bahasa Indonesia",
+  "surahCount": 114,
+  "ayahCount": 6236,
+  "surahs": [
+    {
+      "surah": 1,
+      "name": {
+        "ar": "الفاتحة",
+        "en": "Al-Fatihah",
+        "ur": "الفاتحہ"
+      },
+      "ayahCount": 7,
+      "blocks": 7,
+      "file": "surahs/1.json"
+    },
+    {
+      "surah": 2,
+      "name": {
+        "ar": "البقرة",
+        "en": "Al-Baqarah",
+        "ur": "البقرہ"
+      },
+      "ayahCount": 286,
+      "blocks": 285,
+      "file": "surahs/2.json"
+    },
+    {
+      "surah": 3,
+      "name": {
+        "ar": "آل عمران",
+        "en": "Ali 'Imran",
+        "ur": "آل عمران"
+      },
+      "ayahCount": 200,
+      "blocks": 199,
+      "file": "surahs/3.json"
+    },
+    {
+      "surah": 4,
+      "name": {
+        "ar": "النساء",
+        "en": "An-Nisa",
+        "ur": "النساء"
+      },
+      "ayahCount": 176,
+      "blocks": 173,
+      "file": "surahs/4.json"
+    },
+    {
+      "surah": 5,
+      "name": {
+        "ar": "المائدة",
+        "en": "Al-Ma'idah",
+        "ur": "المائدہ"
+      },
+      "ayahCount": 120,
+      "blocks": 120,
+      "file": "surahs/5.json"
+    },
+    {
+      "surah": 6,
+      "name": {
+        "ar": "الأنعام",
+        "en": "Al-An'am",
+        "ur": "الانعام"
+      },
+      "ayahCount": 165,
+      "blocks": 165,
+      "file": "surahs/6.json"
+    },
+    {
+      "surah": 7,
+      "name": {
+        "ar": "الأعراف",
+        "en": "Al-A'raf",
+        "ur": "الاعراف"
+      },
+      "ayahCount": 206,
+      "blocks": 206,
+      "file": "surahs/7.json"
+    },
+    {
+      "surah": 8,
+      "name": {
+        "ar": "الأنفال",
+        "en": "Al-Anfal",
+        "ur": "الانفال"
+      },
+      "ayahCount": 75,
+      "blocks": 75,
+      "file": "surahs/8.json"
+    },
+    {
+      "surah": 9,
+      "name": {
+        "ar": "التوبة",
+        "en": "At-Tawbah",
+        "ur": "التوبہ"
+      },
+      "ayahCount": 129,
+      "blocks": 129,
+      "file": "surahs/9.json"
+    },
+    {
+      "surah": 10,
+      "name": {
+        "ar": "يونس",
+        "en": "Yunus",
+        "ur": "یونس"
+      },
+      "ayahCount": 109,
+      "blocks": 109,
+      "file": "surahs/10.json"
+    },
+    {
+      "surah": 11,
+      "name": {
+        "ar": "هود",
+        "en": "Hud",
+        "ur": "ہود"
+      },
+      "ayahCount": 123,
+      "blocks": 122,
+      "file": "surahs/11.json"
+    },
+    {
+      "surah": 12,
+      "name": {
+        "ar": "يوسف",
+        "en": "Yusuf",
+        "ur": "یوسف"
+      },
+      "ayahCount": 111,
+      "blocks": 111,
+      "file": "surahs/12.json"
+    },
+    {
+      "surah": 13,
+      "name": {
+        "ar": "الرعد",
+        "en": "Ar-Ra'd",
+        "ur": "الرعد"
+      },
+      "ayahCount": 43,
+      "blocks": 43,
+      "file": "surahs/13.json"
+    },
+    {
+      "surah": 14,
+      "name": {
+        "ar": "إبراهيم",
+        "en": "Ibrahim",
+        "ur": "ابراہیم"
+      },
+      "ayahCount": 52,
+      "blocks": 51,
+      "file": "surahs/14.json"
+    },
+    {
+      "surah": 15,
+      "name": {
+        "ar": "الحجر",
+        "en": "Al-Hijr",
+        "ur": "الحجر"
+      },
+      "ayahCount": 99,
+      "blocks": 99,
+      "file": "surahs/15.json"
+    },
+    {
+      "surah": 16,
+      "name": {
+        "ar": "النحل",
+        "en": "An-Nahl",
+        "ur": "النحل"
+      },
+      "ayahCount": 128,
+      "blocks": 128,
+      "file": "surahs/16.json"
+    },
+    {
+      "surah": 17,
+      "name": {
+        "ar": "الإسراء",
+        "en": "Al-Isra",
+        "ur": "الاسراء"
+      },
+      "ayahCount": 111,
+      "blocks": 111,
+      "file": "surahs/17.json"
+    },
+    {
+      "surah": 18,
+      "name": {
+        "ar": "الكهف",
+        "en": "Al-Kahf",
+        "ur": "الکہف"
+      },
+      "ayahCount": 110,
+      "blocks": 110,
+      "file": "surahs/18.json"
+    },
+    {
+      "surah": 19,
+      "name": {
+        "ar": "مريم",
+        "en": "Maryam",
+        "ur": "مریم"
+      },
+      "ayahCount": 98,
+      "blocks": 98,
+      "file": "surahs/19.json"
+    },
+    {
+      "surah": 20,
+      "name": {
+        "ar": "طه",
+        "en": "Taha",
+        "ur": "طٰہٰ"
+      },
+      "ayahCount": 135,
+      "blocks": 135,
+      "file": "surahs/20.json"
+    },
+    {
+      "surah": 21,
+      "name": {
+        "ar": "الأنبياء",
+        "en": "Al-Anbya",
+        "ur": "الانبیاء"
+      },
+      "ayahCount": 112,
+      "blocks": 112,
+      "file": "surahs/21.json"
+    },
+    {
+      "surah": 22,
+      "name": {
+        "ar": "الحج",
+        "en": "Al-Hajj",
+        "ur": "الحج"
+      },
+      "ayahCount": 78,
+      "blocks": 78,
+      "file": "surahs/22.json"
+    },
+    {
+      "surah": 23,
+      "name": {
+        "ar": "المؤمنون",
+        "en": "Al-Mu'minun",
+        "ur": "المؤمنون"
+      },
+      "ayahCount": 118,
+      "blocks": 117,
+      "file": "surahs/23.json"
+    },
+    {
+      "surah": 24,
+      "name": {
+        "ar": "النور",
+        "en": "An-Nur",
+        "ur": "النور"
+      },
+      "ayahCount": 64,
+      "blocks": 64,
+      "file": "surahs/24.json"
+    },
+    {
+      "surah": 25,
+      "name": {
+        "ar": "الفرقان",
+        "en": "Al-Furqan",
+        "ur": "الفرقان"
+      },
+      "ayahCount": 77,
+      "blocks": 77,
+      "file": "surahs/25.json"
+    },
+    {
+      "surah": 26,
+      "name": {
+        "ar": "الشعراء",
+        "en": "Ash-Shu'ara",
+        "ur": "الشعراء"
+      },
+      "ayahCount": 227,
+      "blocks": 227,
+      "file": "surahs/26.json"
+    },
+    {
+      "surah": 27,
+      "name": {
+        "ar": "النمل",
+        "en": "An-Naml",
+        "ur": "النمل"
+      },
+      "ayahCount": 93,
+      "blocks": 93,
+      "file": "surahs/27.json"
+    },
+    {
+      "surah": 28,
+      "name": {
+        "ar": "القصص",
+        "en": "Al-Qasas",
+        "ur": "القصص"
+      },
+      "ayahCount": 88,
+      "blocks": 88,
+      "file": "surahs/28.json"
+    },
+    {
+      "surah": 29,
+      "name": {
+        "ar": "العنكبوت",
+        "en": "Al-Ankabut",
+        "ur": "العنکبوت"
+      },
+      "ayahCount": 69,
+      "blocks": 69,
+      "file": "surahs/29.json"
+    },
+    {
+      "surah": 30,
+      "name": {
+        "ar": "الروم",
+        "en": "Ar-Rum",
+        "ur": "الروم"
+      },
+      "ayahCount": 60,
+      "blocks": 60,
+      "file": "surahs/30.json"
+    },
+    {
+      "surah": 31,
+      "name": {
+        "ar": "لقمان",
+        "en": "Luqman",
+        "ur": "لقمان"
+      },
+      "ayahCount": 34,
+      "blocks": 34,
+      "file": "surahs/31.json"
+    },
+    {
+      "surah": 32,
+      "name": {
+        "ar": "السجدة",
+        "en": "As-Sajdah",
+        "ur": "السجدہ"
+      },
+      "ayahCount": 30,
+      "blocks": 30,
+      "file": "surahs/32.json"
+    },
+    {
+      "surah": 33,
+      "name": {
+        "ar": "الأحزاب",
+        "en": "Al-Ahzab",
+        "ur": "الاحزاب"
+      },
+      "ayahCount": 73,
+      "blocks": 73,
+      "file": "surahs/33.json"
+    },
+    {
+      "surah": 34,
+      "name": {
+        "ar": "سبأ",
+        "en": "Saba",
+        "ur": "سبا"
+      },
+      "ayahCount": 54,
+      "blocks": 54,
+      "file": "surahs/34.json"
+    },
+    {
+      "surah": 35,
+      "name": {
+        "ar": "فاطر",
+        "en": "Fatir",
+        "ur": "فاطر"
+      },
+      "ayahCount": 45,
+      "blocks": 45,
+      "file": "surahs/35.json"
+    },
+    {
+      "surah": 36,
+      "name": {
+        "ar": "يس",
+        "en": "Ya-Sin",
+        "ur": "یٰس"
+      },
+      "ayahCount": 83,
+      "blocks": 82,
+      "file": "surahs/36.json"
+    },
+    {
+      "surah": 37,
+      "name": {
+        "ar": "الصافات",
+        "en": "As-Saffat",
+        "ur": "الصافات"
+      },
+      "ayahCount": 182,
+      "blocks": 174,
+      "file": "surahs/37.json"
+    },
+    {
+      "surah": 38,
+      "name": {
+        "ar": "ص",
+        "en": "Sad",
+        "ur": "ص"
+      },
+      "ayahCount": 88,
+      "blocks": 88,
+      "file": "surahs/38.json"
+    },
+    {
+      "surah": 39,
+      "name": {
+        "ar": "الزمر",
+        "en": "Az-Zumar",
+        "ur": "الزمر"
+      },
+      "ayahCount": 75,
+      "blocks": 75,
+      "file": "surahs/39.json"
+    },
+    {
+      "surah": 40,
+      "name": {
+        "ar": "غافر",
+        "en": "Ghafir",
+        "ur": "غافر"
+      },
+      "ayahCount": 85,
+      "blocks": 85,
+      "file": "surahs/40.json"
+    },
+    {
+      "surah": 41,
+      "name": {
+        "ar": "فصلت",
+        "en": "Fussilat",
+        "ur": "فصلت"
+      },
+      "ayahCount": 54,
+      "blocks": 54,
+      "file": "surahs/41.json"
+    },
+    {
+      "surah": 42,
+      "name": {
+        "ar": "الشورى",
+        "en": "Ash-Shuraa",
+        "ur": "الشوریٰ"
+      },
+      "ayahCount": 53,
+      "blocks": 51,
+      "file": "surahs/42.json"
+    },
+    {
+      "surah": 43,
+      "name": {
+        "ar": "الزخرف",
+        "en": "Az-Zukhruf",
+        "ur": "الزخرف"
+      },
+      "ayahCount": 89,
+      "blocks": 89,
+      "file": "surahs/43.json"
+    },
+    {
+      "surah": 44,
+      "name": {
+        "ar": "الدخان",
+        "en": "Ad-Dukhan",
+        "ur": "الدخان"
+      },
+      "ayahCount": 59,
+      "blocks": 59,
+      "file": "surahs/44.json"
+    },
+    {
+      "surah": 45,
+      "name": {
+        "ar": "الجاثية",
+        "en": "Al-Jathiyah",
+        "ur": "الجاثیہ"
+      },
+      "ayahCount": 37,
+      "blocks": 37,
+      "file": "surahs/45.json"
+    },
+    {
+      "surah": 46,
+      "name": {
+        "ar": "الأحقاف",
+        "en": "Al-Ahqaf",
+        "ur": "الاحقاف"
+      },
+      "ayahCount": 35,
+      "blocks": 35,
+      "file": "surahs/46.json"
+    },
+    {
+      "surah": 47,
+      "name": {
+        "ar": "محمد",
+        "en": "Muhammad",
+        "ur": "محمد"
+      },
+      "ayahCount": 38,
+      "blocks": 38,
+      "file": "surahs/47.json"
+    },
+    {
+      "surah": 48,
+      "name": {
+        "ar": "الفتح",
+        "en": "Al-Fath",
+        "ur": "الفتح"
+      },
+      "ayahCount": 29,
+      "blocks": 29,
+      "file": "surahs/48.json"
+    },
+    {
+      "surah": 49,
+      "name": {
+        "ar": "الحجرات",
+        "en": "Al-Hujurat",
+        "ur": "الحجرات"
+      },
+      "ayahCount": 18,
+      "blocks": 18,
+      "file": "surahs/49.json"
+    },
+    {
+      "surah": 50,
+      "name": {
+        "ar": "ق",
+        "en": "Qaf",
+        "ur": "ق"
+      },
+      "ayahCount": 45,
+      "blocks": 45,
+      "file": "surahs/50.json"
+    },
+    {
+      "surah": 51,
+      "name": {
+        "ar": "الذاريات",
+        "en": "Adh-Dhariyat",
+        "ur": "الذاریات"
+      },
+      "ayahCount": 60,
+      "blocks": 60,
+      "file": "surahs/51.json"
+    },
+    {
+      "surah": 52,
+      "name": {
+        "ar": "الطور",
+        "en": "At-Tur",
+        "ur": "الطور"
+      },
+      "ayahCount": 49,
+      "blocks": 49,
+      "file": "surahs/52.json"
+    },
+    {
+      "surah": 53,
+      "name": {
+        "ar": "النجم",
+        "en": "An-Najm",
+        "ur": "النجم"
+      },
+      "ayahCount": 62,
+      "blocks": 62,
+      "file": "surahs/53.json"
+    },
+    {
+      "surah": 54,
+      "name": {
+        "ar": "القمر",
+        "en": "Al-Qamar",
+        "ur": "القمر"
+      },
+      "ayahCount": 55,
+      "blocks": 55,
+      "file": "surahs/54.json"
+    },
+    {
+      "surah": 55,
+      "name": {
+        "ar": "الرحمن",
+        "en": "Ar-Rahman",
+        "ur": "الرحمن"
+      },
+      "ayahCount": 78,
+      "blocks": 78,
+      "file": "surahs/55.json"
+    },
+    {
+      "surah": 56,
+      "name": {
+        "ar": "الواقعة",
+        "en": "Al-Waqi'ah",
+        "ur": "الواقعہ"
+      },
+      "ayahCount": 96,
+      "blocks": 94,
+      "file": "surahs/56.json"
+    },
+    {
+      "surah": 57,
+      "name": {
+        "ar": "الحديد",
+        "en": "Al-Hadid",
+        "ur": "الحدید"
+      },
+      "ayahCount": 29,
+      "blocks": 29,
+      "file": "surahs/57.json"
+    },
+    {
+      "surah": 58,
+      "name": {
+        "ar": "المجادلة",
+        "en": "Al-Mujadila",
+        "ur": "المجادلہ"
+      },
+      "ayahCount": 22,
+      "blocks": 22,
+      "file": "surahs/58.json"
+    },
+    {
+      "surah": 59,
+      "name": {
+        "ar": "الحشر",
+        "en": "Al-Hashr",
+        "ur": "الحشر"
+      },
+      "ayahCount": 24,
+      "blocks": 23,
+      "file": "surahs/59.json"
+    },
+    {
+      "surah": 60,
+      "name": {
+        "ar": "الممتحنة",
+        "en": "Al-Mumtahanah",
+        "ur": "الممتحنہ"
+      },
+      "ayahCount": 13,
+      "blocks": 13,
+      "file": "surahs/60.json"
+    },
+    {
+      "surah": 61,
+      "name": {
+        "ar": "الصف",
+        "en": "As-Saf",
+        "ur": "الصف"
+      },
+      "ayahCount": 14,
+      "blocks": 14,
+      "file": "surahs/61.json"
+    },
+    {
+      "surah": 62,
+      "name": {
+        "ar": "الجمعة",
+        "en": "Al-Jumu'ah",
+        "ur": "الجمعہ"
+      },
+      "ayahCount": 11,
+      "blocks": 11,
+      "file": "surahs/62.json"
+    },
+    {
+      "surah": 63,
+      "name": {
+        "ar": "المنافقون",
+        "en": "Al-Munafiqun",
+        "ur": "المنافقون"
+      },
+      "ayahCount": 11,
+      "blocks": 11,
+      "file": "surahs/63.json"
+    },
+    {
+      "surah": 64,
+      "name": {
+        "ar": "التغابن",
+        "en": "At-Taghabun",
+        "ur": "التغابن"
+      },
+      "ayahCount": 18,
+      "blocks": 18,
+      "file": "surahs/64.json"
+    },
+    {
+      "surah": 65,
+      "name": {
+        "ar": "الطلاق",
+        "en": "At-Talaq",
+        "ur": "الطلاق"
+      },
+      "ayahCount": 12,
+      "blocks": 12,
+      "file": "surahs/65.json"
+    },
+    {
+      "surah": 66,
+      "name": {
+        "ar": "التحريم",
+        "en": "At-Tahrim",
+        "ur": "التحریم"
+      },
+      "ayahCount": 12,
+      "blocks": 12,
+      "file": "surahs/66.json"
+    },
+    {
+      "surah": 67,
+      "name": {
+        "ar": "الملك",
+        "en": "Al-Mulk",
+        "ur": "الملک"
+      },
+      "ayahCount": 30,
+      "blocks": 30,
+      "file": "surahs/67.json"
+    },
+    {
+      "surah": 68,
+      "name": {
+        "ar": "القلم",
+        "en": "Al-Qalam",
+        "ur": "القلم"
+      },
+      "ayahCount": 52,
+      "blocks": 52,
+      "file": "surahs/68.json"
+    },
+    {
+      "surah": 69,
+      "name": {
+        "ar": "الحاقة",
+        "en": "Al-Haqqah",
+        "ur": "الحاقہ"
+      },
+      "ayahCount": 52,
+      "blocks": 52,
+      "file": "surahs/69.json"
+    },
+    {
+      "surah": 70,
+      "name": {
+        "ar": "المعارج",
+        "en": "Al-Ma'arij",
+        "ur": "المعارج"
+      },
+      "ayahCount": 44,
+      "blocks": 44,
+      "file": "surahs/70.json"
+    },
+    {
+      "surah": 71,
+      "name": {
+        "ar": "نوح",
+        "en": "Nuh",
+        "ur": "نوح"
+      },
+      "ayahCount": 28,
+      "blocks": 28,
+      "file": "surahs/71.json"
+    },
+    {
+      "surah": 72,
+      "name": {
+        "ar": "الجن",
+        "en": "Al-Jinn",
+        "ur": "الجن"
+      },
+      "ayahCount": 28,
+      "blocks": 28,
+      "file": "surahs/72.json"
+    },
+    {
+      "surah": 73,
+      "name": {
+        "ar": "المزمل",
+        "en": "Al-Muzzammil",
+        "ur": "المزمل"
+      },
+      "ayahCount": 20,
+      "blocks": 20,
+      "file": "surahs/73.json"
+    },
+    {
+      "surah": 74,
+      "name": {
+        "ar": "المدثر",
+        "en": "Al-Muddaththir",
+        "ur": "المدثر"
+      },
+      "ayahCount": 56,
+      "blocks": 56,
+      "file": "surahs/74.json"
+    },
+    {
+      "surah": 75,
+      "name": {
+        "ar": "القيامة",
+        "en": "Al-Qiyamah",
+        "ur": "القیامہ"
+      },
+      "ayahCount": 40,
+      "blocks": 40,
+      "file": "surahs/75.json"
+    },
+    {
+      "surah": 76,
+      "name": {
+        "ar": "الإنسان",
+        "en": "Al-Insan",
+        "ur": "الانسان"
+      },
+      "ayahCount": 31,
+      "blocks": 31,
+      "file": "surahs/76.json"
+    },
+    {
+      "surah": 77,
+      "name": {
+        "ar": "المرسلات",
+        "en": "Al-Mursalat",
+        "ur": "المرسلات"
+      },
+      "ayahCount": 50,
+      "blocks": 50,
+      "file": "surahs/77.json"
+    },
+    {
+      "surah": 78,
+      "name": {
+        "ar": "النبأ",
+        "en": "An-Naba",
+        "ur": "النبا"
+      },
+      "ayahCount": 40,
+      "blocks": 40,
+      "file": "surahs/78.json"
+    },
+    {
+      "surah": 79,
+      "name": {
+        "ar": "النازعات",
+        "en": "An-Nazi'at",
+        "ur": "النازعات"
+      },
+      "ayahCount": 46,
+      "blocks": 45,
+      "file": "surahs/79.json"
+    },
+    {
+      "surah": 80,
+      "name": {
+        "ar": "عبس",
+        "en": "Abasa",
+        "ur": "عبس"
+      },
+      "ayahCount": 42,
+      "blocks": 42,
+      "file": "surahs/80.json"
+    },
+    {
+      "surah": 81,
+      "name": {
+        "ar": "التكوير",
+        "en": "At-Takwir",
+        "ur": "التکویر"
+      },
+      "ayahCount": 29,
+      "blocks": 29,
+      "file": "surahs/81.json"
+    },
+    {
+      "surah": 82,
+      "name": {
+        "ar": "الانفطار",
+        "en": "Al-Infitar",
+        "ur": "الانفطار"
+      },
+      "ayahCount": 19,
+      "blocks": 19,
+      "file": "surahs/82.json"
+    },
+    {
+      "surah": 83,
+      "name": {
+        "ar": "المطففين",
+        "en": "Al-Mutaffifin",
+        "ur": "المطففین"
+      },
+      "ayahCount": 36,
+      "blocks": 36,
+      "file": "surahs/83.json"
+    },
+    {
+      "surah": 84,
+      "name": {
+        "ar": "الانشقاق",
+        "en": "Al-Inshiqaq",
+        "ur": "الانشقاق"
+      },
+      "ayahCount": 25,
+      "blocks": 25,
+      "file": "surahs/84.json"
+    },
+    {
+      "surah": 85,
+      "name": {
+        "ar": "البروج",
+        "en": "Al-Buruj",
+        "ur": "البروج"
+      },
+      "ayahCount": 22,
+      "blocks": 22,
+      "file": "surahs/85.json"
+    },
+    {
+      "surah": 86,
+      "name": {
+        "ar": "الطارق",
+        "en": "At-Tariq",
+        "ur": "الطارق"
+      },
+      "ayahCount": 17,
+      "blocks": 17,
+      "file": "surahs/86.json"
+    },
+    {
+      "surah": 87,
+      "name": {
+        "ar": "الأعلى",
+        "en": "Al-A'la",
+        "ur": "الاعلیٰ"
+      },
+      "ayahCount": 19,
+      "blocks": 19,
+      "file": "surahs/87.json"
+    },
+    {
+      "surah": 88,
+      "name": {
+        "ar": "الغاشية",
+        "en": "Al-Ghashiyah",
+        "ur": "الغاشیہ"
+      },
+      "ayahCount": 26,
+      "blocks": 26,
+      "file": "surahs/88.json"
+    },
+    {
+      "surah": 89,
+      "name": {
+        "ar": "الفجر",
+        "en": "Al-Fajr",
+        "ur": "الفجر"
+      },
+      "ayahCount": 30,
+      "blocks": 30,
+      "file": "surahs/89.json"
+    },
+    {
+      "surah": 90,
+      "name": {
+        "ar": "البلد",
+        "en": "Al-Balad",
+        "ur": "البلد"
+      },
+      "ayahCount": 20,
+      "blocks": 20,
+      "file": "surahs/90.json"
+    },
+    {
+      "surah": 91,
+      "name": {
+        "ar": "الشمس",
+        "en": "Ash-Shams",
+        "ur": "الشمس"
+      },
+      "ayahCount": 15,
+      "blocks": 15,
+      "file": "surahs/91.json"
+    },
+    {
+      "surah": 92,
+      "name": {
+        "ar": "الليل",
+        "en": "Al-Layl",
+        "ur": "اللیل"
+      },
+      "ayahCount": 21,
+      "blocks": 21,
+      "file": "surahs/92.json"
+    },
+    {
+      "surah": 93,
+      "name": {
+        "ar": "الضحى",
+        "en": "Ad-Duhaa",
+        "ur": "الضحیٰ"
+      },
+      "ayahCount": 11,
+      "blocks": 11,
+      "file": "surahs/93.json"
+    },
+    {
+      "surah": 94,
+      "name": {
+        "ar": "الشرح",
+        "en": "Ash-Sharh",
+        "ur": "الشرح"
+      },
+      "ayahCount": 8,
+      "blocks": 8,
+      "file": "surahs/94.json"
+    },
+    {
+      "surah": 95,
+      "name": {
+        "ar": "التين",
+        "en": "At-Tin",
+        "ur": "التین"
+      },
+      "ayahCount": 8,
+      "blocks": 8,
+      "file": "surahs/95.json"
+    },
+    {
+      "surah": 96,
+      "name": {
+        "ar": "العلق",
+        "en": "Al-Alaq",
+        "ur": "العلق"
+      },
+      "ayahCount": 19,
+      "blocks": 19,
+      "file": "surahs/96.json"
+    },
+    {
+      "surah": 97,
+      "name": {
+        "ar": "القدر",
+        "en": "Al-Qadr",
+        "ur": "القدر"
+      },
+      "ayahCount": 5,
+      "blocks": 5,
+      "file": "surahs/97.json"
+    },
+    {
+      "surah": 98,
+      "name": {
+        "ar": "البينة",
+        "en": "Al-Bayyinah",
+        "ur": "البینہ"
+      },
+      "ayahCount": 8,
+      "blocks": 8,
+      "file": "surahs/98.json"
+    },
+    {
+      "surah": 99,
+      "name": {
+        "ar": "الزلزلة",
+        "en": "Az-Zalzalah",
+        "ur": "الزلزلہ"
+      },
+      "ayahCount": 8,
+      "blocks": 8,
+      "file": "surahs/99.json"
+    },
+    {
+      "surah": 100,
+      "name": {
+        "ar": "العاديات",
+        "en": "Al-Adiyat",
+        "ur": "العادیات"
+      },
+      "ayahCount": 11,
+      "blocks": 11,
+      "file": "surahs/100.json"
+    },
+    {
+      "surah": 101,
+      "name": {
+        "ar": "القارعة",
+        "en": "Al-Qari'ah",
+        "ur": "القارعہ"
+      },
+      "ayahCount": 11,
+      "blocks": 11,
+      "file": "surahs/101.json"
+    },
+    {
+      "surah": 102,
+      "name": {
+        "ar": "التكاثر",
+        "en": "At-Takathur",
+        "ur": "التکاثر"
+      },
+      "ayahCount": 8,
+      "blocks": 8,
+      "file": "surahs/102.json"
+    },
+    {
+      "surah": 103,
+      "name": {
+        "ar": "العصر",
+        "en": "Al-Asr",
+        "ur": "العصر"
+      },
+      "ayahCount": 3,
+      "blocks": 3,
+      "file": "surahs/103.json"
+    },
+    {
+      "surah": 104,
+      "name": {
+        "ar": "الهمزة",
+        "en": "Al-Humazah",
+        "ur": "الہمزہ"
+      },
+      "ayahCount": 9,
+      "blocks": 9,
+      "file": "surahs/104.json"
+    },
+    {
+      "surah": 105,
+      "name": {
+        "ar": "الفيل",
+        "en": "Al-Fil",
+        "ur": "الفیل"
+      },
+      "ayahCount": 5,
+      "blocks": 5,
+      "file": "surahs/105.json"
+    },
+    {
+      "surah": 106,
+      "name": {
+        "ar": "قريش",
+        "en": "Quraysh",
+        "ur": "قریش"
+      },
+      "ayahCount": 4,
+      "blocks": 4,
+      "file": "surahs/106.json"
+    },
+    {
+      "surah": 107,
+      "name": {
+        "ar": "الماعون",
+        "en": "Al-Ma'un",
+        "ur": "الماعون"
+      },
+      "ayahCount": 7,
+      "blocks": 6,
+      "file": "surahs/107.json"
+    },
+    {
+      "surah": 108,
+      "name": {
+        "ar": "الكوثر",
+        "en": "Al-Kawthar",
+        "ur": "الکوثر"
+      },
+      "ayahCount": 3,
+      "blocks": 3,
+      "file": "surahs/108.json"
+    },
+    {
+      "surah": 109,
+      "name": {
+        "ar": "الكافرون",
+        "en": "Al-Kafirun",
+        "ur": "الکافرون"
+      },
+      "ayahCount": 6,
+      "blocks": 6,
+      "file": "surahs/109.json"
+    },
+    {
+      "surah": 110,
+      "name": {
+        "ar": "النصر",
+        "en": "An-Nasr",
+        "ur": "النصر"
+      },
+      "ayahCount": 3,
+      "blocks": 3,
+      "file": "surahs/110.json"
+    },
+    {
+      "surah": 111,
+      "name": {
+        "ar": "المسد",
+        "en": "Al-Masad",
+        "ur": "المسد"
+      },
+      "ayahCount": 5,
+      "blocks": 5,
+      "file": "surahs/111.json"
+    },
+    {
+      "surah": 112,
+      "name": {
+        "ar": "الإخلاص",
+        "en": "Al-Ikhlas",
+        "ur": "الاخلاص"
+      },
+      "ayahCount": 4,
+      "blocks": 4,
+      "file": "surahs/112.json"
+    },
+    {
+      "surah": 113,
+      "name": {
+        "ar": "الفلق",
+        "en": "Al-Falaq",
+        "ur": "الفلق"
+      },
+      "ayahCount": 5,
+      "blocks": 5,
+      "file": "surahs/113.json"
+    },
+    {
+      "surah": 114,
+      "name": {
+        "ar": "الناس",
+        "en": "An-Nas",
+        "ur": "الناس"
+      },
+      "ayahCount": 6,
+      "blocks": 6,
+      "file": "surahs/114.json"
+    }
+  ],
+  "howToLoad": "Load authors/{id}/surahs/{n}.json — this file contains ONLY this book."
+}
